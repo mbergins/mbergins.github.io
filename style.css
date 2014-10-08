@@ -1,0 +1,29 @@
+html {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	/*width: 6in;*/
+	/*margin: 0px;*/
+	padding: 0px;
+	text-align: justify;
+}
+
+img.self_picture {
+	height: 320px;
+	width: 240px;
+}
+
+#last_mod {
+    color: gray
+}
+
+#review_body {
+    width = 200px
+}
+
+
+hr {
+	clear:both;
+}
